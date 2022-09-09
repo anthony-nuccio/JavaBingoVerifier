@@ -1,0 +1,2 @@
+# JavaBingoVerifier
+Bingo Card Validator
